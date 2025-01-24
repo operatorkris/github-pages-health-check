@@ -25,4 +25,4 @@ jobs:
 
       - name: Run Script
         run: |
-          python check_website_status.py
+          python health_check.py
